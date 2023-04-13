@@ -1,6 +1,6 @@
 {
-  "name": "ngx-intl-tel-input-app",
-  "version": "0.0.0",
+  "name": "ngx-intl-tel-input-14",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
